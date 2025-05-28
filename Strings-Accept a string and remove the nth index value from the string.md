@@ -28,3 +28,4 @@ def remove(s):
 ![image](https://github.com/user-attachments/assets/c15fa1fb-58c2-4110-a930-ef22220c3e5e)
 
 ## Result
+Thus the program that accepts a string and removes the character at a specified index has been executed successfully.
