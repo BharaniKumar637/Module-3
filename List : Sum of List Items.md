@@ -23,3 +23,4 @@ print(s)
 ![image](https://github.com/user-attachments/assets/d6a9ead2-fc30-4052-9596-4bf1fd08a08d)
 
 ## Result
+Thus the program that calculates the sum of all elements in a list has been executed successfully.
