@@ -33,3 +33,4 @@ print(l2)
 ![image](https://github.com/user-attachments/assets/01f691b7-3cfb-4e1c-99c0-c062efc95918)
 
 ## Result
+Thus the program that filters out and returns all elements from a list that do not contain the letter 'e', using regular expressions (regex) has been executed successfully.
