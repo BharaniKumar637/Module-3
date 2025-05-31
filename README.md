@@ -1,4 +1,4 @@
-#List Operations in Python: Sum of List Items
+# #List Operations in Python: Sum of List Items
 ## Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 ## Algorithm
@@ -6,6 +6,9 @@ To write a Python program that calculates the **sum of all elements** in a list.
 2. Use Python’s built-in `sum()` function to calculate the total.
 3. Print the result.
 ## Program
+DEVELOPED BY: BHARANIU KUMAR J
+REGISTER NUMBER: 212224240024
+
 ```
 items=[1,2,-8]
 s=0
